@@ -1,1 +1,0 @@
-# docs-io-strts-trezorr.github.io
